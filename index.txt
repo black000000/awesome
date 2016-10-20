@@ -7,9 +7,11 @@ AWESOME
 
 ome        About        Portfolios        Features        Our Products        Contact Us
 
-An Amazing Responsive wordpress theme
+An Amazing Responsive 
+wordpress theme
 
-Lorem ipsum ex vix illud nonummynovum tation et his. At vix scriptaset patrioque scribentur, at pro fugit erts verterem molestiae, sed et vivendo ali Lorem ipsum ex vix illud nonummy, novum tation et his. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus.
+Lorem ipsum ex vix illud nonummy
+novum tation et his. At vix scriptaset patrioque scribentur, at pro fugit erts verterem molestiae, sed et vivendo ali Lorem ipsum ex vix illud nonummy, novum tation et his. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus.
 
 Some Amazing Features
 
@@ -25,7 +27,7 @@ Globalization
 
 Company map
 
-photograph
+55555555
 
 
 
